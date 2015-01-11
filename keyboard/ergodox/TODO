@@ -1,0 +1,3 @@
+* make sleep_led user selectable, also with multiple LEDs.
+* finish documentation
+* incorporate ben blazaks layout as standard keymap
